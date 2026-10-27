@@ -1,0 +1,3 @@
+Developed a CAN-based automotive dashboard using a PIC microcontroller and Embedded C to monitor vehicle parameters such as speed, RPM, and gear.
+
+Implemented CAN message transmission and reception, ADC input, keypad-based gear selection, and LCD display integration.
